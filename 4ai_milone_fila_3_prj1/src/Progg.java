@@ -6,6 +6,7 @@ public class Progg {
 		System.out.println("Peschiulli Leonardo");
 		System.out.println("Maggiore Enrico");
 		System.out.println("Riso Lorenzo");
+		System.out.println("Pagano Emmanuel");
 	}
 
 }
